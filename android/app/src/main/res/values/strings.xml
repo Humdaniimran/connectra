@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">connectra</string>
+    <string name="title_activity_main">connectra</string>
+    <string name="package_name">com.connectra.chat</string>
+    <string name="custom_url_scheme">com.connectra.chat</string>
+</resources>

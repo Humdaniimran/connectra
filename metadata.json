@@ -1,0 +1,10 @@
+{
+  "name": "Connectra — Chat & Call",
+  "description": "Secure, real-time messaging, crystal-clear voice and HD video calling, group conversations, status stories, and channels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
